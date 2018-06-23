@@ -1,0 +1,2 @@
+# mailing-hdyd
+hdyd　メルマガ
